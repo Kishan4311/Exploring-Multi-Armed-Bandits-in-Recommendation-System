@@ -76,10 +76,5 @@ GitHub: [@Kishan4311](https://github.com/Kishan4311)
 
 This project is released for academic and research use.
 
-```
 
----
-
-Would you like me to make a **slightly extended version (with badges and dataset download instructions)** or keep this short version as your final `README.md`?
-```
 
