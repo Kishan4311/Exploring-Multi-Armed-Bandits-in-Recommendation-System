@@ -51,8 +51,9 @@ pip install -r requirements.txt
 ## 📊 Results
 
 * Contextual bandits (e.g., LinUCB) outperform simple ε-greedy in most cases.
-* MovieLens experiments show faster convergence and higher CTR.
-* Detailed metrics and plots are in the notebooks & report.
+* Achieved 103% higher reward for epsilon logistic on MovieLens1M over random policy.
+* Demonstrated UCB1 with parameter = 0.05 delivers 850% improvement over random selection on Zozo dataset.
+* Detailed metrics and plots are in the notebooks & presentation ppt.
 
 ---
 
